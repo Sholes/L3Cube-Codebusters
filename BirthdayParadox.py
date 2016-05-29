@@ -1,3 +1,8 @@
+'''
+The birthday paradox concerns the probability that, in a set of n randomly chosen people, some pair of them will have the same birthday.
+By the pigeonhole principle,there is 50% probability with 23 people.
+'''
+
 from random import randint
 
 count = 0
